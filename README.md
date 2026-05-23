@@ -4,8 +4,7 @@ An end-to-end AI/ML system that predicts, forecasts, and detects anomalies in
 Indian city air quality data using multiple machine learning models.
 
 ## 🚀 Live Demo
-[Click here to view the live app](#) ← (we'll add this link after deployment)
-
+[Click here to view the live app](https://air-quality-system-ibra6djfkolkrbvuf5zajk.streamlit.app/)
 ## 📌 Project Overview
 This project builds a complete intelligent air quality monitoring pipeline using 
 real Indian city AQI data from 2015-2020. It combines multiple ML models to 
