@@ -120,4 +120,4 @@ top = anomalies.sort_values('AQI', ascending=False)[['Date', 'AQI', 'PM2.5', 'CO
 st.dataframe(top, use_container_width=True)
 
 st.divider()
-st.markdown("*Built by [Your Name] | AI/ML Project for Sentioair.io Internship Application*")
+st.markdown("*Built by Sachin Singh | *")
